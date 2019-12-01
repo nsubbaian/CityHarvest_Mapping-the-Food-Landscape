@@ -1,10 +1,9 @@
 # ECE491-Data-Science-for-Social-Good
-## ECE491 - Topics in Electrical Engineering: Data Science for Social Good
-## Nithilam Subbaian, Jessica Martinez, Raymond Ming Lee
+### Nithilam Subbaian, Jessica Martinez, Raymond Ming Lee
 
 City Harvest is New York City’s largest food rescue organization, rescuing up to 61 million pounds of food in 2019 and delivering it to food pantries, soup kitchens, and other community partners. Currently, helping to feed more than 1.2 million New Yorkers struggling to find food, City Harvest has the goal to end hunger in communities by distributing food, educating the community, and finding solutions to end food insecurity.
 
-## Our goal: To provide an overview of the Food Landscape in neighborhoods, aiming to identify group needs and explore solutions on a community level.
+#### Our goal: To provide an overview of the Food Landscape in neighborhoods, aiming to identify group needs and explore solutions on a community level.
 
 # Project 1: 
 We created a website that charted out the meals served in the various city community districts over the years. We implemented this visual so that the user can click through the various years and see how the distribution and concentration of meals served changed over the years in New York City. To accomplish this, we used glitch.com, which allowed us to use html and css along with other tools such as photoshop and glitch to display this information. This visual will help us assess the effect of different events on how they affected food supply needs by analyzing factors such as how quickly food supply changed or moved to an area affected by a city event, how quickly that city grew or recovered after a disaster, etc. Initially we had hoped to correlate the changes in meals served with events that happened in NYC, but quickly learned that this was not possible with the limited data that we had, so we then shifted our focus for this project to display the information that we had from the the organization FeedNYC and City Harvest to visualize the data and show the breakdown of each year and demographics so the user can interpret the data. We changed the layout and content of the website over the comments we received such as changing the color scheme to a more lively version with colors that City Harvest uses, as well as including a GIF to summarize the information. We displayed this project in the form of a tablet on the day of the presentations.
