@@ -1,5 +1,6 @@
 # ECE491-Data-Science-for-Social-Good
 ECE491 - Topics in Electrical Engineering: Data Science for Social Good
+Nithilam Subbaian, Jessica Martinez, Raymond Ming Lee
 
 City Harvest is New York City’s largest food rescue organization, rescuing up to 61 million pounds of food in 2019 and delivering it to food pantries, soup kitchens, and other community partners. Currently, helping to feed more than 1.2 million New Yorkers struggling to find food, City Harvest has the goal to end hunger in communities by distributing food, educating the community, and finding solutions to end food insecurity.
 
