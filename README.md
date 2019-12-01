@@ -15,11 +15,11 @@ For this project we used this model to create an interface that allows the guest
 Here is a picture of our model at the presentation, and in the email, the code is attached for “Design your own City” (make sure to have the appropriate library imported).
 
 ![GitHub Logo](/images/chALL.png)
-Format: ![Alt Text](url)
 
 Lastly, for our third project, we represented the meals served at the food banks in a humanistic approach through a physical art piece, or soft sculpture. To create this soft sculpture, we found a basket and paper mached it to make a large bowl, and painted it with a lively color, similar to the yellow theme we used in a our previous projects for continuity. We then found facts about food insecurity and screen printed them on canvas, and made rice shapes stuffed with actual rice. We then filled the bowl without canvas rice and actual rice. The goal of this project was to display the jarring facts about food insecurity in a tangible manner that allows the guests to interact with the design, and feel for the different facts in the rice. The open bowl asks for the guests to explore and learn more about the effects of food insecurity. We also filled the canvas rice with actual rice so that guests can take one home with them, in an effort to not waste rice, which follows with the goal of City Harvest to redistribute food.
 
 
+![Rice Bowl](/images/riceBowlCloseUp.jpg)
 
 We worked initially with Gabrielle Williams, who is the assistant manager for Agency Relations at City Harvest who we have met in person, to obtain more data on City Harvest. We used data from City Harvest, FeedNYC, and Open Source data about NYC to complete our project. We had a lot of fun creating our projects and hope that the guests had fun interacting with them at the final presentation. Thank you to Prof. Keene and Prof. Woods for helping with every iteration of our project.
 
