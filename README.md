@@ -1,4 +1,4 @@
-# City Harvest Mapping the Food Landscape
+# City Harvest: Mapping the Food Landscape
 ##### ECE491-Data-Science-for-Social-Good
 ### Nithilam Subbaian, Jessica Martinez, Raymond Ming Lee
 
